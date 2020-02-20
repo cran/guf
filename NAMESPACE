@@ -1,0 +1,8 @@
+export(`%notin%`)
+export(right)
+export(left)
+export(se)
+export(round_something)
+export(count)
+export(aggro)
+importFrom("stats", "na.omit", "var", "aggregate", "as.formula")
